@@ -1,0 +1,32 @@
+html {
+    font-family: 'Lucida Sans', sans-serif
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+#main-content {
+    text-align: center;
+    width: 70%;
+    margin-top: 5em;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pic {
+    width: 30%;
+}
+
+#contact-list {
+    margin-top: 2em;
+}
+
+.contact-item {
+    margin-top: 2em;
+}
